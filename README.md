@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wenyu Shan
 - 😄 I'm a undergraduate student of Peking University, majoring in Physics！
-- 👀 I’m interested in Atmospheric Dynamics and Machine Learning (maybe economics too)
-- 🌱 I’m currently learning Atmosphere & Machine Learning and sth about data sinence & Econometric
+- 👀 I’m interested in Atmospheric Dynamics and Machine Learning
+- 🌱 I’m currently learning Atmosphere & Machine Learning and sth about data sinence
 - 💞️ I’m looking to collaborate on plante fluid dynamics
 - 📫 How to reach me: 2200011454@stu.pku.edu.cn
 
